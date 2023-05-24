@@ -21,4 +21,4 @@ outputPath = 'converted/rotated.png'
 
 
 # Display a message indicating that the image has been saved
-print('Rotated image saved to disk : ' + outputPath)
+# print('Rotated image saved to disk : ' + outputPath)

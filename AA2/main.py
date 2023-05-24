@@ -29,4 +29,4 @@ outputPath = 'converted/contrastAdjustedImage.png'
 
 
 # Display a message indicating that the image has been saved
-print('Contrast adjusted image saved to disk : ' + outputPath)
+# print('Contrast adjusted image saved to disk : ' + outputPath)
