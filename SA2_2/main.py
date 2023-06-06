@@ -4,11 +4,11 @@ import cv2
 
 inputPath = 'static/lion.png'
 
-orignalImage = cv2.imread(inputPath)
+originalImage = cv2.imread(inputPath)
 
 # ------------Convert image to Grayscale --------------
 
-grayscaleImage = cv2.cvtColor(orignalImage, cv2.COLOR_BGR2GRAY)
+grayscaleImage = cv2.cvtColor(originalImage, cv2.COLOR_BGR2GRAY)
 
 cv2.imshow('Grayscale Image', grayscaleImage)
 cv2.waitKey(0)

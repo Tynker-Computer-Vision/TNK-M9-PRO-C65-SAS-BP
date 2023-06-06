@@ -6,7 +6,7 @@ import cv2
 inputPath = 'static/img1.png'
 
 # Load the color image
-orignalImage = cv2.imread(inputPath)
+originalImage = cv2.imread(inputPath)
 
 # ------------Rotate the image --------------
 
